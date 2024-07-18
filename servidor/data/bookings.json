@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "id_city": 1,
+    "id_hotel": 3,
+    "persons": "2",
+    "days": "2",
+    "total": "$860",
+    "firstname": "Melisa",
+    "lastname": "Contreras",
+    "email": "melicontreras714@gmail.com",
+    "phone": "1111111111111"
+  }
+]

@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "The Plaza Hotel",
+      "id_city": 1,      
+      "price": 150
+    },
+    {
+      "id": 2,
+      "name": "W New York - Times Square",
+      "id_city": 1,
+      "price": 180
+    },
+    {
+      "id": 3,
+      "name": "Hilton Garden Inn Times Square",
+      "id_city": 1,
+      "price": 140
+    },
+    {
+      "id": 4,
+      "name": "The Beverly Hills Hotel",
+      "id_city": 2,
+      "price": 200
+    },
+    {
+      "id": 5,
+      "name": "The Westin Bonaventure Hotel & Suites",
+      "id_city": 2,
+      "price": 170
+    },
+    {
+      "id": 6,
+      "name": "Sheraton Grand Los Angeles",
+      "id_city": 2,
+      "price": 150
+    },
+    {
+      "id": 7,
+      "name": "Four Seasons Hotel Chicago",
+      "id_city": 3,
+      "price": 270
+    },
+    {
+      "id": 8,
+      "name": "Swissotel Chicago",
+      "id_city": 3,
+      "price": 180
+    },
+    {
+      "id": 9,
+      "name": "The Peninsula Chicago",
+      "id_city": 3,
+      "price": 220
+    }
+]

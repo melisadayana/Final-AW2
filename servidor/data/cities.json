@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "city": "New York",
+        "image": "../../assets/new_york.jpg",
+        "price": 300,
+        "description": "Experimenta la ciudad que no duerme: desde la icónica Estatua de la Libertad hasta el bullicioso Times Square, sumérgete en la cultura, la historia y la energía vibrante de Nueva York. Recorre los museos de clase mundial, disfruta de espectáculos de Broadway y descubre la diversidad de barrios como Chinatown o Little Italy."
+    },
+    {
+        "id": 2,
+        "city": "Los Angeles",
+        "image": "../../assets/los_angeles.jpeg",
+        "price": 320,
+        "description": "Vive el glamour de Hollywood: recorre el Paseo de la Fama, relájate en las playas de Santa Mónica y descubre la cultura vibrante de la ciudad de los Ángeles. Explora los estudios de cine, asiste a eventos de alfombra roja y disfruta de la deliciosa gastronomía local."
+    },
+    {
+        "id": 3,
+        "city": "Chicago",
+        "image": "../../assets/chicago.jpg",
+        "price": 400,
+        "description": "Admira la arquitectura de vanguardia: desde el Willis Tower hasta el Millennium Park, disfruta de la rica historia, la escena artística y la pasión por los deportes de Chicago. Pasea por el Navy Pier, asiste a un partido de béisbol en Wrigley Field y saborea la emblemática pizza deep-dish."
+    }
+]
